@@ -1,16 +1,54 @@
-### Hi there 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-<!--
-**vocongdat/vocongdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 I am Vo Cong Dat, a **Front End Developer** pursuing my Bachelors in **Electronics & Telecommunication Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learnt **HTML**, **CSS**, **Javascript**. In 2021 till now, I learnt **React**, **SCSS**, **Pug**.
+
+📚 I love reading articles about on **personal development** and the evolving **technology** of the world. My favorite websites are Dev.to and Tinhte.vn
+
+✈️ I also love to travel because traveling helps me understand more about **people**, **life** and **especially history** about the world around me. Traveling is also a **great source of inspiration** for me to create great products.
+
+## 🏅 Achievements
+
+-   🏅 **Responsive Web Design** [**Certification**](https://www.freecodecamp.org/certification/vo-cong-dat/javascript-algorithms-and-data-structures) at 🔥 **freeCodeCamp** (January 2021)
+-   🏅 **JavaScript Algorithms and Data Structures** [**Certification**](https://www.freecodecamp.org/certification/vo-cong-dat/responsive-web-design) at 🔥 **freeCodeCamp** (January 2021)
+
+## 🛠️ Skills
+
+### Languages
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Front-End Development
+
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!-- ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
+<!-- ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) -->
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
+![pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
+
+### Back-End Development
+
+![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
+### Database
+
+![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 🖥️ Workspace Setup
+
+![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://#)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://#)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vocongdat)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/vocongdat)
