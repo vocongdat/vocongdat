@@ -12,8 +12,8 @@
 
 ## 🏅 Achievements
 
--   🏅 **Responsive Web Design** [**Certification**](https://www.freecodecamp.org/certification/vo-cong-dat/javascript-algorithms-and-data-structures) at 🔥 **freeCodeCamp** (January 2021)
--   🏅 **JavaScript Algorithms and Data Structures** [**Certification**](https://www.freecodecamp.org/certification/vo-cong-dat/responsive-web-design) at 🔥 **freeCodeCamp** (January 2021)
+-   🥇 **Responsive Web Design** [**Certification**](https://www.freecodecamp.org/certification/vo-cong-dat/javascript-algorithms-and-data-structures) at 🔥 **freeCodeCamp** (January 2021)
+-   🥈 **JavaScript Algorithms and Data Structures** [**Certification**](https://www.freecodecamp.org/certification/vo-cong-dat/responsive-web-design) at 🔥 **freeCodeCamp** (January 2021)
 
 ## 🛠️ Skills
 
