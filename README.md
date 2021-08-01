@@ -37,6 +37,7 @@
 ### Backend as a Service (BaaS)
 
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![glitch](https://img.shields.io/badge/Glitch-E366A6?style=for-the-badge&logo=glitch&logoColor=white)
 
 ## 🖥️ Workspace Setup
