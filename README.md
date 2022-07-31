@@ -25,8 +25,8 @@
 ### Front-End Development
 
 [![cocos](https://img.shields.io/badge/Cocos-FFF?style=for-the-badge&logo=Cocos&logoColor=55C2E1)](https://www.cocos.com/en/)
-![vue](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-20232A?style=for-the-badge&logo=Nuxt.js&logoColor=00DC82)
+![vue](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
@@ -40,6 +40,7 @@
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=181717)
 
 ### Backend as a Service (BaaS)
 
