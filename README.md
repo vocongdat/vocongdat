@@ -24,7 +24,7 @@
 
 ### Front-End Development
 
-[![cocos](https://img.shields.io/badge/Cocos-FFF?style=for-the-badge&logo=Cocos&logoColor=55C2E1)](https://www.cocos.com/en/)
+[![cocos](https://img.shields.io/badge/Cocos-F4F4F4?style=for-the-badge&logo=Cocos&logoColor=55C2E1)](https://www.cocos.com/en/)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-20232A?style=for-the-badge&logo=Nuxt.js&logoColor=00DC82)
 ![vue](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
