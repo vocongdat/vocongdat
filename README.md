@@ -24,7 +24,7 @@
 
 ### Front-End Development
 
-![Cocos](https://img.shields.io/badge/Cocos?style=for-the-badge&logo=Cocos&logoColor=55C2E1)
+![Cocos](https://img.shields.io/badge/Cocos-20232A?style=for-the-badge&logo=cocos&logoColor=55C2E1)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
