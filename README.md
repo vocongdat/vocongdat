@@ -49,7 +49,6 @@
 
 ## 🖥️ Workspace Setup
 
-![Mac OS](https://img.shields.io/badge/macOS-0078D6?style=for-the-badge&logo=macOS&logoColor=000000)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Apple](https://img.shields.io/badge/Apple-0078D6?style=for-the-badge&logo=Apple&logoColor=000000)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
