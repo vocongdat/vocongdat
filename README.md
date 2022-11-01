@@ -1,14 +1,14 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ## 🚀 About Me
+🎓 I am Vo Cong Dat, a **Game Developer** and a **Front End Developer**. I have about 1 year of experience with game development using **Cocos Creator** game engine. I have a passion for games and I will be a game developer in the future.
 
-🎓 I am Vo Cong Dat, a **Front End Developer** pursuing my Bachelors in **Electronics & Telecommunication Engineering**.
-
-👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. In 2020, I learnt **HTML**, **CSS**, **Javascript**. In 2021 till now, I learnt **React**, **SCSS**, **Pug**.
+👨‍💻 I graduated from university in 2022 but I have worked in the game industry since 2021. I'm a person who have passion with programming, especially **game developing**. I want to research new technology and enhance my skill, and I can learn new technology pretty fast. I always try to hard work to gain experience.
+In 2021, I learnt **Cocos Creator**, React, SCSS, Pug, Vue, **Typescript**, Nuxtjs, Material UI, GraphQL, Tailwind CSS. In 2022 till now, I learn **Unity**, **C#**. ✍️
 
 📚 I love reading articles about on **personal development** and the evolving **technology** of the world. My favorite websites are Dev.to and Tinhte.vn
 
-✈️ I also love to travel because traveling helps me understand more about **people**, **life** and **especially history** about the world around me. Traveling is also a **great source of inspiration** for me to create great products.
+✈️ 🍲 🍱 I also love to travel because traveling helps me understand more about people, **life** and **especially history** about the world around me. Traveling is also a **great source of inspiration** for me to create great products.
 
 ## 🏅 Achievements
 
@@ -22,9 +22,13 @@
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Front-End Development
+### Game Development
 
 [![cocos](https://img.shields.io/badge/Cocos-20232A?style=for-the-badge&logo=Cocos&logoColor=55C2E1)](https://www.cocos.com/en/)
+[![unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=Cocos&logoColor=FFFFFF)]
+
+### Front-End Development
+
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-20232A?style=for-the-badge&logo=Nuxt.js&logoColor=00DC82)
 ![vue](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
