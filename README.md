@@ -25,7 +25,7 @@ In 2021, I learnt **Cocos Creator**, React, SCSS, Pug, Vue, **Typescript**, Nuxt
 ### Game Development
 
 [![cocos](https://img.shields.io/badge/Cocos-20232A?style=for-the-badge&logo=Cocos&logoColor=55C2E1)](https://www.cocos.com/en/)
-[![unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=Cocos&logoColor=FFFFFF)]
+![unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=Unity&logoColor=FFFFFF)
 
 ### Front-End Development
 
