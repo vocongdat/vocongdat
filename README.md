@@ -75,7 +75,7 @@ I am a dynamic and results-driven Front-end Developer with over 4 years of profe
 ### Design Tools
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![pnpm](https://img.shields.io/badge/figma-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 
 ## 🖥️ Workspace Setup
