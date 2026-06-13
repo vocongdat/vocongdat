@@ -26,6 +26,7 @@ I am a dynamic and results-driven Front-end Developer with over 4 years of profe
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=F16728)
 
+![biome](https://img.shields.io/badge/biome-60A5FA?style=for-the-badge&logo=biome&logoColor=FFFFFF)
 ![eslint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=FFFFFF)
 ![prettier](https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=FFFFFF)
 ![stylelint](https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=FFFFFF)
@@ -51,10 +52,18 @@ I am a dynamic and results-driven Front-end Developer with over 4 years of profe
 ![vue](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 
+### AI-driven tools
+
+![claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![claude-code](https://img.shields.io/badge/ClaudeCode-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
+![google-gemini](https://img.shields.io/badge/GoogleGemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+
 ### Back-End Development
 
 ![node](https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![nestjs](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs.js&logoColor=FFFFFF)
 
 ### Backend as a Service (BaaS)
 
@@ -66,6 +75,8 @@ I am a dynamic and results-driven Front-end Developer with over 4 years of profe
 ### Design Tools
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![pnpm](https://img.shields.io/badge/figma-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
 
 ## 🖥️ Workspace Setup
 
@@ -96,4 +107,4 @@ I am a dynamic and results-driven Front-end Developer with over 4 years of profe
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vocongdat/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.linkedin.com/in/vocongdat/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vocongdat)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vocongdat)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:congdatabc@gmail.com)
