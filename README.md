@@ -1,11 +1,12 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ## 🚀 About Me
-🎓 Highly proficient and results-driven Front-end Developer with over 3 years of experience specializing in building dynamic, responsive, and complex user interfaces using React and Next.js. Adept at leveraging TypeScript for robust and scalable applications, with strong expertise in state management solutions like Redux and Zustand. Committed to delivering high-quality code, collaborating effectively within Agile/Scrum environments, and continuously adopting new technologies to enhance user experiences..
+🎓 Professional Profile
+I am a dynamic and results-driven Front-end Developer with over 4 years of professional experience. I specialize in building high-performance, SEO-optimized web applications using React, Next.js, and TypeScript. With strong expertise in state management (Redux Toolkit, Zustand) and modern UI frameworks (Tailwind CSS, Headless UI), I craft responsive, pixel-perfect user interfaces. Beyond the front-end, I actively bridge the gap to full-stack development by building RESTful APIs with NestJS/Node.js, while leveraging AI-driven tools to optimize the software development lifecycle and boost overall team productivity.
 
-📚 I love reading articles about on **personal development** and the evolving **technology** of the world. My favorite websites are Dev.to and Tinhte.vn
+📚 Continuous LearningI am passionate about personal development and staying ahead of the rapidly evolving tech landscape. My favorite go-to platforms for daily technical insights and community discussions are Dev.to and Tinhte.vn.
 
-✈️ 🍲 🍱 I also love to **travel** because traveling helps me understand more about people, **life** and **especially history** about the world around me. Traveling is also a **great source of inspiration** for me to create great products.
+✈️ 🍲 🍱 Beyond the CodeI am an avid traveler and food enthusiast. Exploring new destinations allows me to deeply connect with different cultures, understand people, and delve into world history. These diverse real-world experiences broaden my perspective and serve as a profound source of inspiration for creating exceptional, user-centric products.
 
 ## 🏅 Achievements
 
