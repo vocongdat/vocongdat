@@ -9,7 +9,7 @@
 <a href="https://vocongdat.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-211E1B?style=for-the-badge&logo=googlechrome&logoColor=F2A30C" alt="Portfolio"></a>
 <a href="https://vocongdat.onrender.com/public/assets/cv/CV_Vo_Cong_Dat_Software_Engineer.pdf"><img src="https://img.shields.io/badge/Résumé-211E1B?style=for-the-badge&logo=readthedocs&logoColor=F2A30C" alt="Résumé (PDF)"></a>
 <a href="https://www.linkedin.com/in/vocongdat/"><img src="https://img.shields.io/badge/LinkedIn-211E1B?style=for-the-badge&logo=linkedin&logoColor=F2A30C" alt="LinkedIn"></a>
-<a href="mailto:congdatabc@gmail.com"><img src="https://img.shields.io/badge/congdatabc@gmail.com-F2A30C?style=for-the-badge&logo=gmail&logoColor=211E1B" alt="Email"></a>
+<a href="mailto:vocongdat.dev@gmail.com"><img src="https://img.shields.io/badge/vocongdat.dev@gmail.com-F2A30C?style=for-the-badge&logo=gmail&logoColor=211E1B" alt="Email"></a>
 
 <br><br>
 
@@ -37,8 +37,8 @@
 
 <br><br>
 
-<a href="mailto:congdatabc@gmail.com">
-  <img src="assets/contact.png" width="100%" alt="Let's build something that feels fast. Open to front-end roles and freelance work — congdatabc@gmail.com">
+<a href="mailto:vocongdat.dev@gmail.com">
+  <img src="assets/contact.png" width="100%" alt="Let's build something that feels fast. Open to front-end roles and freelance work — vocongdat.dev@gmail.com">
 </a>
 
 </div>
