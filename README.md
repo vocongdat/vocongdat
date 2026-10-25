@@ -37,11 +37,6 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vocongdat&show_icons=true&count_private=true&hide_title=false&bg_color=F4EFE6&title_color=D98300&text_color=5C554B&icon_color=F2A30C&border_color=E7DECB&border_radius=22" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vocongdat&layout=compact&bg_color=F4EFE6&title_color=D98300&text_color=5C554B&border_color=E7DECB&border_radius=22" height="165" alt="Top languages">
-
-<br><br>
-
 <a href="mailto:congdatabc@gmail.com">
   <img src="assets/contact.png" width="100%" alt="Let's build something that feels fast. Open to front-end roles and freelance work — congdatabc@gmail.com">
 </a>
