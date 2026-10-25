@@ -13,7 +13,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - uses: Platane/snk/svg-only@v3
         with:
@@ -28,7 +28,7 @@ jobs:
         run: |
           # Keep the previous card when a service is down or returns garbage.
           fetch() { curl -sfL -m 60 "$2" -o /tmp/card.svg && grep -q '<svg' /tmp/card.svg && mv /tmp/card.svg "profile/$1" || echo "::warning::kept old $1"; }
-          LANGS="https://github-readme-stats.vercel.app/api/top-langs/?username=$U&layout=compact&langs_count=8&hide=shaderlab&hide_border=true&card_width=400"
+          LANGS="https://github-readme-stats.vercel.app/api/top-langs/?username=$U&layout=compact&langs_count=8&hide=shaderlab,hlsl&hide_border=true&card_width=400"
           STREAK="https://streak-stats.demolab.com?user=$U&hide_border=true"
           fetch langs-light.svg  "$LANGS&theme=default"
           fetch langs-dark.svg   "$LANGS&theme=github_dark"
