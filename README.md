@@ -123,12 +123,24 @@ My sweet spot is the seam between Figma and the browser: component-driven archit
 ![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## 📈 Stats
+## 📈 GitHub Activity
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vocongdat&show_icons=true&hide_border=true" alt="Vo Cong Dat's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vocongdat.vocongdat" alt="visitors">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/streak-dark.svg">
+    <img src="profile/streak-light.svg" height="165" alt="GitHub streak: total contributions, current streak and longest streak">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/langs-dark.svg">
+    <img src="profile/langs-light.svg" height="165" alt="Most used languages">
+  </picture>
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/snake-dark.svg">
+    <img src="profile/snake-light.svg" width="100%" alt="Contribution graph being eaten by a snake">
+  </picture>
+  <br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vocongdat.vocongdat" alt="visitors">
 </div>
 
 ## 🔗 Let's build something that feels fast
